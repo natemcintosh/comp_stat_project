@@ -10,7 +10,7 @@ Please create a folder called `data` at the same level as this file. Put your th
 
 The columns in each are as follows:
 
-**equity_prices**
+## equity_prices
 | Column Name   |    Type   |   Extra Info |
 |---------------|:---------:|-------------:|
 | ticker        |  string   |              |
@@ -24,7 +24,7 @@ The columns in each are as follows:
 | closeunadj    |  float64  |              |
 | lastupdated   |  string   | `YYYY-MM-DD` |
 
-**retail_flow_daily**
+## retail_flow_daily
 | Column Name | Type    | Extra Info   |
 |-------------|---------|--------------|
 | date        | string  | `YYYY-MM-DD` |
@@ -34,7 +34,7 @@ The columns in each are as follows:
 | vwap_buy    | float64 |              |
 | vwap_sell   | float64 |              |
 
-**tickers_and_metadata**
+## tickers_and_metadata
 | Column Name    | Type    | Extra Info           |
 |----------------|---------|----------------------|
 | table          | string  |                      |
