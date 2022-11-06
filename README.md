@@ -9,6 +9,7 @@ Please create a folder called `data` at the same level as this file. Put your th
 1. `tickers_and_metadata`
 
 The columns in each are as follows:
+
 **equity_prices**
 - `ticker`: `string`
 - `date`: `YYYY-MM-DD`
