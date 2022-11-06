@@ -2,7 +2,7 @@
 A group project for Computational Statistics
 
 ## Data
-Please put your three data files in the `./data` folder. It should contain
+Please create a folder called `data` at the same level as this file. Put your three data files in the `./data` folder. It should contain
 
 1. `equity_prices`
 1. `retail_flow_daily`
