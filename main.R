@@ -39,3 +39,5 @@ read_tickers_and_metadata = function() {
 
   return(df)
 }
+
+# Hello, my name is
